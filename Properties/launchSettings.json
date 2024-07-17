@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Email-MultiClass-Classification": {
+      "commandName": "Project",
+      "commandLineArgs": "predict \"D:\\Machine Learning Projects\\Email-MultiClass-Classification\\Data\\input.json\""
+    }
+  }
+}
